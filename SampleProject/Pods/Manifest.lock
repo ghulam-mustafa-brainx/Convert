@@ -1,0 +1,16 @@
+PODS:
+  - Convert (1.0.0)
+
+DEPENDENCIES:
+  - Convert (from `../Convert/`)
+
+EXTERNAL SOURCES:
+  Convert:
+    :path: "../Convert/"
+
+SPEC CHECKSUMS:
+  Convert: 573582f67bb18239715f7579f5df3fbd24551e26
+
+PODFILE CHECKSUM: ef91582f2cc2ef103855af4d10af4a13be68fdd4
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module Convert {
+  umbrella header "Convert-umbrella.h"
+
+  export *
+  module * { export * }
+}
