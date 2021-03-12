@@ -5,7 +5,7 @@
 
 _You want to add pod 'Convert', '~> 1.0' similar to the following to your Podfile:_
 
-> target 'MyApp' do
->   pod 'Convert', '~> 1.0'
-> end
+ `target 'MyApp' do`
+   `pod 'Convert', '~> 1.0'`
+ `end`
 
